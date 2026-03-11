@@ -1,0 +1,8 @@
+{
+  "name": "StudyGenie AI + LevelUp AI",
+  "description": "A comprehensive mobile-first learning platform with AI-powered concept extraction, adaptive quizzes, and a gamified XP-based leveling system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
